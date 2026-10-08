@@ -4,8 +4,8 @@ SPA para una florería, construida con React 19 y Vite. La interfaz y el conteni
 
 ## Enlaces
 
-- Repositorio: https://github.com/achacollonietomaria/pagina-web-florilys-foro-3
-- Sitio publicado: https://pagina-web-florilys-foro-3.netlify.app/
+- Repositorio: https://github.com/achacollonietomaria/foro-4-pagina-web-florylis
+- Sitio publicado: https://marvelous-pika-cdf402.netlify.app/
 
 ## Ejecutar
 
